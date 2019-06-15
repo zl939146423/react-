@@ -1,0 +1,7 @@
+const CHANGE_NUM = "CHANGE_NUM"
+const COMPUTE_NUM = "COMPUTE_NUM"
+
+export{
+    CHANGE_NUM,
+    COMPUTE_NUM
+}

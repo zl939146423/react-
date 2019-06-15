@@ -1,0 +1,8 @@
+.list-group-item{
+    &.finished{
+        text-decoration: line-through;
+    }
+}
+.label-primary{
+    margin:0 10px;
+}
